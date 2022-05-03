@@ -18,7 +18,7 @@ Eu amo aprender coisas novas, então sinta-se livre pra falar comigo sobre o que
   <a href="https://www.linkedin.com/in/rdfcampos/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<a href="https://mail.google.com/mail/u/raquel.dantas1@gmail.com/#compose" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=youtube&logoColor=white"/> </a>
+<a href="https://mail.google.com/mail/u/raquel.dantas1@gmail.com/#compose" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 </div>
 
 
